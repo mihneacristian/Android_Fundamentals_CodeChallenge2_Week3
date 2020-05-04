@@ -3,3 +3,5 @@ Android Fundamentals - Code Challenge 2 (Week 3) - Google Atelierul Digital pent
 <br />
 <p align="center"><img src="https://i.imgur.com/xRfitzP.jpg" width="200" height="400">
   <img src="https://i.imgur.com/9kWiKJq.jpg" width="200" height="400" /></p>
+  <br />
+  <p align="center"><img src="https://i.imgur.com/REqbvWn.jpg" width="200" height="400"></p>
